@@ -1,0 +1,5 @@
+name: ${project.name}
+# noinspection PluginYml
+main: ${project.MainClass}
+version: ${project.version}
+load: STARTUP
